@@ -11,7 +11,7 @@ This analysis was performed with:
 - numpy 1.23.1
 - seaborn 0.12.2
 - matplotlib 3.5.2
-- scikit-learn 1.1.2pip 
+- scikit-learn 1.1.2
 
 
 

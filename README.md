@@ -5,8 +5,13 @@ Picture: Daniel Schwen, Seattle 4, License: CC BY-SA 4.0
 
 #### 1. Installations
 
-This analysis was performed with Python 3.10, Jupyter Notebook and the following Packages:
-Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn, datetime
+This analysis was performed with:
+- Python 3.10.0 
+- pandas 1.4.3
+- numpy 1.23.1
+- seaborn 0.12.2
+- matplotlib 3.5.2
+- scikit-learn 1.1.2pip 
 
 
 

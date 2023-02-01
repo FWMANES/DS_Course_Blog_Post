@@ -31,6 +31,6 @@ https://www.kaggle.com/code/alianees/udacity-data-science-nanodegree-project-0/d
 
 for using this Notebook you need to download the 3 datasets (calendar, listing, reviews) from the link above and the Notebook itself. The necessary Python Version and packages are listed under (1. Installations)
 
-#### Licenses, Authors
+#### 5. Licenses, Authors
 
 n/a

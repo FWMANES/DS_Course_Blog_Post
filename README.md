@@ -34,6 +34,10 @@ https://www.kaggle.com/code/alianees/udacity-data-science-nanodegree-project-0/d
 
 for using this Notebook you need to download the 3 datasets (calendar, listing, reviews) from the link above and the Notebook itself. The necessary Python Version and packages are listed under (1. Installations)
 
-#### 5. Licenses, Authors
+#### 5. Results
+
+The results of this analysis are summarized in the following blog post on medium.com: https://medium.com/@fabian.winzoesch/airbnb-vacation-homes-seattle-prices-fcd0c8618298
+
+#### 6. Licenses, Authors
 
 n/a

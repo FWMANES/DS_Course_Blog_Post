@@ -27,7 +27,7 @@ Business Understanding and Data Understanding are done in parallel. Then follows
 
 #### 3. File Desriction
 
-Project_CRISP_DM_AirBnB.ipynb - Analysis of the open source Airbnb Seattle data available under the following link:
+- Project_CRISP_DM_AirBnB.ipynb - Analysis of the open source Airbnb Seattle data available under the following link:
 https://www.kaggle.com/code/alianees/udacity-data-science-nanodegree-project-0/data?select=calendar.csv
 
 #### 4. How to interact with this project

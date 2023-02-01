@@ -1,4 +1,7 @@
-# DS_Course_Blog_Post
+# DS_Course_Blog_Post: A short Analysis of the Seattle Airbnb Open Data
+
+![Seattle](https://user-images.githubusercontent.com/123451528/216083090-cbc72e2c-a8f7-40a9-a16e-5e9ff018753d.jpg)
+Picture: Daniel Schwen, Seattle 4, License: CC BY-SA 4.0
 
 #### 1. Installations
 

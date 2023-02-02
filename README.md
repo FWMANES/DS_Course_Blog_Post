@@ -22,7 +22,7 @@ This project should answer the following questions regarding the Airbnb Seattle 
 - investigate the influence of the different listed amenities on the price
 - predict the price using a linear model and choose the best inputs for it
 
-The analysis follows th Crisp-DM Data Science Process:
+The analysis follows the Crisp-DM Data Science Process:
 
 ![image](https://user-images.githubusercontent.com/123451528/215772328-85627cd7-5c66-42cf-9ef7-61852ed93294.png)
 
